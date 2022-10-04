@@ -1,0 +1,22 @@
+{
+  "name": "docker-express-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JichouP/docker-express-template.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JichouP/docker-express-template/issues"
+  },
+  "homepage": "https://github.com/JichouP/docker-express-template#readme",
+  "dependencies": {
+    "express": "^5.0.0-beta.1"
+  }
+}
